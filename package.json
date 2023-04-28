@@ -1,0 +1,57 @@
+{
+  "name": "minha-extensao",
+  "displayName": "Minha Extensão",
+  "description": "Uma descrição da minha extensão.",
+  "version": "1.0.0",
+  "publisher": "undefined_publisher",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Formatters"
+  ],
+  "activationEvents": [
+    "onCommand:extension.alexFormatXml"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.alexFormatXml",
+        "title": "(Alex Carvalho) Formatar XML para fazer request Json"
+      }
+    ],
+    "menus": {
+      "editor/context": [
+        {
+          "command": "extension.alexFormatXml",
+          "group": "navigation",
+          "when": "editorHasSelection"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "devDependencies": {
+    "@types/glob": "^8.1.0",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "16.x",
+    "@types/vscode": "^1.60.0",
+    "@vscode/test-electron": "^2.3.0",
+    "eslint": "^8.39.0",
+    "glob": "^8.1.0",
+    "mocha": "^10.2.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "xml2js": "^0.5.0"
+  }
+}

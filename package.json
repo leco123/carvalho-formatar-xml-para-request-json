@@ -1,7 +1,7 @@
 {
-  "name": "minha-extensao",
-  "displayName": "Minha Extensão",
-  "description": "Uma descrição da minha extensão.",
+  "name": "carvalho-formatar-xml-para-request-json",
+  "displayName": "Alex-formatar XML para enviar no Postman",
+  "description": "Esta extensão do Visual Studio Code permite formatar rapidamente um XML e prepará-lo para ser enviado como parâmetro JSON em uma solicitação POST no Postman.",
   "version": "1.0.0",
   "publisher": "undefined_publisher",
   "engines": {
@@ -53,5 +53,9 @@
   "dependencies": {
     "google-translate-api": "^2.3.0",
     "xml2js": "^0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leco123/carvalho-formatar-xml-para-request-json"
   }
 }

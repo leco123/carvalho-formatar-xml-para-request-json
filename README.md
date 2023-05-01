@@ -2,6 +2,10 @@
 
 Esta extensão do Visual Studio Code permite formatar rapidamente um XML e prepará-lo para ser enviado como parâmetro JSON em uma solicitação POST no Postman.
 
+## DOWNLOAD DA EXTENSÃO PARA VSCODE
+
+[Faça o download da extensão VSCode aqui](https://github.com/leco123/carvalho-formatar-xml-para-request-json/raw/main/carvalho-formatar-xml-para-request-json-1.0.0.vsix)
+
 ## Recursos
 
 - Formatação de XML em uma única linha.

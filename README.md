@@ -1,4 +1,4 @@
-# Alex-formatar XML para enviar no Postman
+# Alex extensão para formatar XML para enviar em parâmetro no Postman
 
 Esta extensão do Visual Studio Code permite formatar rapidamente um XML e prepará-lo para ser enviado como parâmetro JSON em uma solicitação POST no Postman.
 

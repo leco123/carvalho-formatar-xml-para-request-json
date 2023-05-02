@@ -1,18 +1,18 @@
-# Extensão para formatar XML para enviar em parâmetro no Postman
+# Extensão para Formatação de XML no Postman
 
-Esta extensão do Visual Studio Code permite formatar rapidamente um XML e prepará-lo para ser enviado como parâmetro JSON em uma solicitação POST no Postman.
+Essa extensão do Visual Studio Code permite formatar rapidamente um XML e prepará-lo para ser enviado como parâmetro JSON em uma solicitação POST no Postman.
 
-## DOWNLOAD DA EXTENSÃO PARA VSCODE
+## Baixe a Extensão para o VSCode
 
-[Faça o download da extensão VSCode aqui](https://github.com/leco123/carvalho-formatar-xml-para-request-json/raw/main/carvalho-formatar-xml-para-request-json-1.0.0.vsix)
+[**Baixe a extensão para o VSCode aqui**](https://github.com/leco123/carvalho-formatar-xml-para-request-json/raw/main/carvalho-formatar-xml-para-request-json-1.0.0.vsix)
 
-## Recursos
+## Funcionalidades
 
-- Formatação de XML em uma única linha.
+- Formatação do XML em uma única linha.
 - Adição de escapes nas aspas duplas para compatibilidade com JSON.
 - Integração com o menu de contexto do Visual Studio Code para acesso rápido à funcionalidade.
 
-## Como usar
+## Como utilizar
 
 1. Selecione o XML no editor de código do Visual Studio Code.
 2. Clique com o botão direito do mouse na seleção.
@@ -21,15 +21,15 @@ Esta extensão do Visual Studio Code permite formatar rapidamente um XML e prepa
 
 ## Requisitos
 
-- Visual Studio Code 1.60.0 ou superior.
+- Visual Studio Code 1.60.0 ou versão superior.
 
 ## Suporte
 
-Se você encontrar algum problema ou tiver alguma dúvida sobre esta extensão, por favor, abra um problema no [repositório GitHub do projeto](https://github.com/leco123/carvalho-formatar-xml-para-request-json/issues).
+Se você encontrar algum problema ou tiver alguma dúvida sobre esta extensão, por favor, abra um issue no [repositório GitHub do projeto](https://github.com/leco123/carvalho-formatar-xml-para-request-json/issues).
 
-## Contribuindo
+## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar solicitações de pull ou abrir problemas no [repositório GitHub do projeto](https://github.com/leco123/).
+Contribuições são bem-vindas! Sinta-se à vontade para enviar solicitações de pull ou abrir issues no [repositório GitHub do projeto](https://github.com/leco123/).
 
 ## Licença
 

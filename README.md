@@ -23,6 +23,10 @@ Essa extensão do Visual Studio Code permite formatar rapidamente um XML e prepa
 
 - Visual Studio Code 1.60.0 ou versão superior.
 
+## Melhorias para as próximas versões
+
+1. Converter código que foi formatado para usar no Postman para um código XML Legível.
+
 ## Suporte
 
 Se você encontrar algum problema ou tiver alguma dúvida sobre esta extensão, por favor, abra um issue no [repositório GitHub do projeto](https://github.com/leco123/carvalho-formatar-xml-para-request-json/issues).
